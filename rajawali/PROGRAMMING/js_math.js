@@ -1,0 +1,1 @@
+console.log(Math.LOG2E);
